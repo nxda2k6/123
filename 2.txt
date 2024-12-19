@@ -1,0 +1,3 @@
+print ("nhap so nguyen a")
+a=int(input())
+print (a+5)
