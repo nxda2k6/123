@@ -2,4 +2,7 @@ print ("nhap so nguyen a")
 a=int(input())
 print (a+5)
 my name is nguyen xuan duy anh
-i am studing at phenikaa university
+i am studing at phenikaa university 
+học công nghệ thông tin là đam mê của tôi
+tạm biệt mội người .
+
